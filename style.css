@@ -1,0 +1,12 @@
+th, td {
+    padding: 20px 5px;
+}
+
+
+th {
+    background: gray;
+}
+
+td {
+    background: rgb(111, 237, 210);
+}
