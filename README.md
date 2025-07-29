@@ -6,5 +6,10 @@
 Опирации создания, вывод, измененияи удаления записей. 
 Это позволяет понять, как можно взаимодействовать с базой данных на примере PHP.
 
+1. ![Alt text](image.png)
+2. ![Alt text](image-1.png)
+3. ![Alt text](image-2.png)
+
+
 #### Как длеать связь таблиц в PhpMyAdmin:
 ![Image](https://github.com/user-attachments/assets/5d346311-bb32-46fe-851e-184c78870291)
